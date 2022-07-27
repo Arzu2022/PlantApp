@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Alerts for today.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
